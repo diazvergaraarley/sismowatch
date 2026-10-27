@@ -136,7 +136,7 @@ Sigue cada uno de estos pasos en tu terminal para levantar la plataforma desde c
 
 ```bash
 git clone https://github.com/diazvergaraarley/sismowatch
-cd sismowatch
+cd sismowatch/sismowatch_app
 ```
 
 ### Paso 2: Crear el Archivo de Configuración de Entorno
